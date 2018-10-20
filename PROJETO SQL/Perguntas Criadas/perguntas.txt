@@ -1,0 +1,4 @@
+1 - Quais os generos musicais e mídia mais vendidos em cada mês?
+2 - Quais os meses do ano as vendas ultrapassam a media?
+3 - Qual o melhor vendedor de cada Gênero de musica?
+4 - Quais as playlists mais famosas em cada país?
