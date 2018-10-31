@@ -1,0 +1,13 @@
+Month,MediaType,Genre,BillingCountry,quantity
+01,MPEG audio file,Rock,Spain,10
+02,MPEG audio file,Rock,USA,24
+03,MPEG audio file,Rock,Belgium,11
+04,MPEG audio file,Latin,USA,23
+05,MPEG audio file,Latin,USA,19
+06,MPEG audio file,Rock,Germany,12
+07,MPEG audio file,Rock,Canada,19
+08,MPEG audio file,Latin,Brazil,15
+09,MPEG audio file,Metal,USA,14
+10,MPEG audio file,Rock,USA,17
+11,MPEG audio file,Rock,USA,17
+12,MPEG audio file,Rock,USA,31
